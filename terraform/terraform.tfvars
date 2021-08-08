@@ -1,0 +1,6 @@
+project_id = "platinum-virtue-321916"
+region     = "asia-south2"
+zone       = "delhi-subnet"
+config_path = "~/.kube/config"
+k8s_yaml = "../deploy-nexus-kubernetes.yaml"
+bucket_name = "devi-nexus-bucket" 

@@ -1,0 +1,10 @@
+apiVersion: v2
+name: nexus-demo
+description: A Helm chart for Kubernetes
+type: application
+version: 0.1.0
+appVersion: 1.16.0
+home: https://github.com/devivaraprasad901/devivaraprasad_nexus_GCP_demo
+maintainers:
+  - name: Devivaraprasad
+    url: https://github.com/devivaraprasad901/devivaraprasad_nexus_GCP_demo.git
